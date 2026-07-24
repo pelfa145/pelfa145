@@ -6,13 +6,14 @@ I enjoy building projects as a way to learn, whether it's a small web app, an Ar
 
 ### Currently Learning
 
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
-![C](https://shields.io)
-![MySQL](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 
 ### Interests

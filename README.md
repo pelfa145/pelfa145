@@ -6,13 +6,14 @@ I enjoy building projects as a way to learn, whether it's a small web app, an Ar
 
 ### Currently Learning
 
-* C
-* JavaScript
-* Python
-* SQL
-* Git & GitHub
-* Linux
-* Networking
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
+![C](https://shields.io)
+![MySQL](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
+
 
 ### Interests
 

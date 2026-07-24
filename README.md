@@ -4,6 +4,8 @@ I'm an Information Technology student from the Philippines, currently learning t
 
 I enjoy building projects as a way to learn, whether it's a small web app, an Arduino project, or simply experimenting with something new. Most of what you'll find here is part of that process.
 
+One of the projects I'm most proud of is **Floodline**, a flood monitoring system that combines Arduino, ESP32, Firebase, and a Progressive Web App. It started as our senior high school capstone and went on to receive **Best in Innovation**, **Best in Demonstration**, **Best Oral Presentation**, and **Overall Champion**. Building it taught me a lot about programming, embedded systems, and solving real-world problems.
+
 ### Currently Learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)

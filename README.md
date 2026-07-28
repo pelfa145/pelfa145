@@ -18,7 +18,7 @@ One of the projects I'm most proud of is **Floodline**, a flood monitoring syste
 
 ## Top Languages
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pelfa145&langs_count=8" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pelfa145&layout=compact&langs_count=8&theme=tokyonight" />
 
 ### Interests
 

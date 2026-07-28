@@ -16,9 +16,11 @@ One of the projects I'm most proud of is **Floodline**, a flood monitoring syste
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelfa145&layout=compact&theme=tokyonight" />
+## Top Languages
 
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,mysql&theme=dark" />
+</p>
 
 ### Interests
 
